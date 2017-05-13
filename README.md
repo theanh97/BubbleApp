@@ -1,2 +1,1 @@
-# BubbleApp
-Bubble App version 1.0
+# huong dan Git co ban 
