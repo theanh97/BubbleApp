@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="spinner_normal">#08D9D6</color>
+    <color name="spinner_disable">#bcb5b7</color>
+    <color name="dialog_background">#95E1D3</color>
+    <color name="actionbar_background">#ABEDD8</color>
+    <color name ="actionbar_title">#11BFAE</color>
+    <color name ="text_subject_info">#303F9F</color>
+    <color name ="text_content_info">#3490DE</color>
+</resources>

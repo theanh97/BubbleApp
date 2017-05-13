@@ -1,0 +1,32 @@
+<resources>
+  <!-- APP INFO -->
+  <string name="app_name">Bubble App</string>
+  <string name="app_version">v1.0</string>
+  <string name="app_feature">
+    - Tạo icon nổi trên màn hình , dễ dàng sử dụng nhiều ứng dụng cùng lúc
+    \n- Có thể thay đổi hình dáng icon
+    \n- Có thể sử dụng ảnh động làm icon
+  </string>
+  <string name="app_comment">theanhdev97@gmail.com</string>
+  <string name="app_author">Phạm Thế Anh</string>
+
+  <!-- Fragmnet CONFIG ICON -->
+  <string name="title_fragment_config">App Icon</string>
+  <string name="image_subject">- Image :</string>
+  <string name="button_directory">Directory</string>
+  <string name="edit_text_directory">Dir :</string>
+  <string name="size_subject"> - Size :</string>
+  <string name="shape_subject"> - Shape :</string>
+  <string name="button_ok">OK</string>
+  <string name="button_cancel">CANCEL</string>
+
+  <!-- PROGRESS DIALOG -->
+  <string name="update_shape_transformation">Updating shape image ...</string>
+  <string name="update_gif_image">Updating gif image</string>
+  <string name="adding_gif_icon">Adding app icon ...</string>
+
+  <!-- SEARCH -->
+  <string name="search_hint">Find App ... </string>
+  <!-- INFO -->
+  <string name="title_fragment_info">App Info</string>
+</resources>

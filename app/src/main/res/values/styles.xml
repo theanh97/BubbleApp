@@ -1,0 +1,39 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+  <!-- Base application theme. -->
+  <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <!-- Customize your theme here. -->
+    <item name="colorPrimary">#6FE7DD</item>
+    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    <item name="colorAccent">@color/colorAccent</item>
+  </style>
+
+  <!-- Config Icon Fragment
+  -->
+  <style name="MyDialogFragmentStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+    <item name="android:windowTitleStyle">@style/dialog_title_style</item>
+    <item name="android:titleTextColor" tools:targetApi="m">#ab0e0e</item>
+  </style>
+
+  <style name="dialog_title_style" parent="android:Widget.Holo.TextView">
+    <item name="android:background">#3FC1C9</item>
+    <item name="android:textColor">#3FC1C9</item>
+    <!--<item name="android:gravity">center</item>-->
+    <item name="android:padding">10dp</item>
+  </style>
+
+  <style name="text_info">
+    <item name="android:textStyle">bold</item>
+    <item name="android:textSize">15sp</item>
+    <item name ="android:padding">5dp</item>
+    <item name ="android:lineSpacingExtra">3dp</item>
+  </style>
+
+  <style name="subject_info" parent="text_info">
+    <item name="android:textColor">@color/text_subject_info</item>
+  </style>
+
+  <style name="content_info" parent="text_info">
+    <item name="android:textColor">@color/text_content_info</item>
+  </style>
+</resources>
