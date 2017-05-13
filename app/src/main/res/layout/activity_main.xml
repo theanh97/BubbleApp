@@ -19,17 +19,6 @@
       app:popupTheme="@style/ThemeOverlay.AppCompat.Light">
   </android.support.v7.widget.Toolbar>
 
-  <EditText
-      android:id="@+id/edit_text_search"
-      android:layout_width="230dp"
-      android:layout_height="wrap_content"
-      android:layout_gravity="center_horizontal"
-      android:layout_marginTop="10dp"
-      android:background="@drawable/search_view_background"
-      android:drawableLeft="@drawable/search_4"
-      android:drawablePadding="8dp"
-      android:hint="@string/search_hint"
-      android:padding="10dp"/>
 
   <RelativeLayout
       android:layout_width="match_parent"

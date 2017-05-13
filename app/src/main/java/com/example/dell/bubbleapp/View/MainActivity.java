@@ -42,8 +42,8 @@ public class MainActivity extends AppCompatActivity implements TextWatcher, View
   @BindView(R.id.recycler_view)
   public RecyclerView mRecyclerView;
 
-  @BindView(R.id.edit_text_search)
-  public EditText mEditText;
+//  @BindView(R.id.edit_text_search)
+//  public EditText mEditText;
 
   @Override
   protected void onCreate(Bundle savedInstanceState) {
@@ -70,7 +70,7 @@ public class MainActivity extends AppCompatActivity implements TextWatcher, View
     mRecyclerView.setLayoutManager(lLayout);
 
     // SearchView
-    mEditText.addTextChangedListener(this);
+//    mEditText.addTextChangedListener(this);
 
   }
 
